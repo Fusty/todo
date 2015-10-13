@@ -4,6 +4,7 @@ A simple todo app I can update from my phone (IFTTT, Google Spreadsheets, GH-Pag
 Just clone this repo in a web acessible directory and follow the instructions on screen
 
 ##Non-Setup Demo
+In case you want to see how this looks when you snag the master branch
 http://fusty.github.io/todoDemo
 
 ##Overview
