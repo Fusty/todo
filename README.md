@@ -5,6 +5,7 @@ Just clone this repo in a web acessible directory and follow the instructions on
 
 ##Non-Setup Demo
 In case you want to see how this looks when you snag the master branch
+
 http://fusty.github.io/todoDemo
 
 ##Overview
